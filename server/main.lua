@@ -107,3 +107,37 @@ function getPriceFromModel(model)
 
 	return 0
 end
+end 
+end server admin 
+end admin-leitung 
+end car Scania R570 G&J
+end car F-15 Silent Eagle
+end car KAI KF-21 Boramae
+end car AS332 Super Puma LA (LS) County Sheriff
+end car Su-35S Flanker-E [Custom weapons
+end car B-2A Spirit Stealth Bomber
+end car DDG-151 Nathan James [Working gun
+end car Boeing 727-200
+end car Antonov AN-225 Mriya 
+end car UH-1Y Venom 1.1
+end car UH-1H Iroquois NASA
+end car Boeing 747 Space Shuttle Carrier
+end car S-70A Firehawk Fire Fighting Helicopter
+end car Apache AH Mk 1 British Armed Forces
+end car Airbus A321 Neo [Add-On/14 liveries] 1.0
+end car Bugatti Chiron 2017
+end car BMW M760i 2017
+end car Maybach S650 2019 for
+end car Rolls-Royce Cullinan Black
+end car Mercedes-Benz E63s W213
+end car Nissan GTR-R35 
+end car Lamborghini Huracan EVO2 2022
+end car Audi RS6 
+end car Simon Motorsport's Ferrari 458 Italia Liberty
+end car BMW M3 F80 POLICE NM-STYL
+end car BMW car M8 Prior Police NM-Style for 
+end car Dare Sandy Shores Pd Car
+end doorlock script 
+coords umkleide  x:461 y:-996 Z:30
+coords büro x:451 y:-990 z:30
+
